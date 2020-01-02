@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\suanfa\\xiaoji\\xiaoji\\xiaoji.csproj",
+      "projectUniqueName": "D:\\算法\\xiaoji\\xiaoji\\xiaoji.csproj",
       "projectName": "xiaoji",
-      "projectPath": "D:\\suanfa\\xiaoji\\xiaoji\\xiaoji.csproj",
+      "projectPath": "D:\\算法\\xiaoji\\xiaoji\\xiaoji.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\suanfa\\xiaoji\\xiaoji\\obj\\",
+      "outputPath": "D:\\算法\\xiaoji\\xiaoji\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
