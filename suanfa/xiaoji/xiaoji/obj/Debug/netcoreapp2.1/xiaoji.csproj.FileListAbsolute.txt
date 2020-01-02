@@ -1,0 +1,11 @@
+D:\suanfa\xiaoji\xiaoji\bin\Debug\netcoreapp2.1\xiaoji.deps.json
+D:\suanfa\xiaoji\xiaoji\bin\Debug\netcoreapp2.1\xiaoji.runtimeconfig.json
+D:\suanfa\xiaoji\xiaoji\bin\Debug\netcoreapp2.1\xiaoji.runtimeconfig.dev.json
+D:\suanfa\xiaoji\xiaoji\bin\Debug\netcoreapp2.1\xiaoji.dll
+D:\suanfa\xiaoji\xiaoji\bin\Debug\netcoreapp2.1\xiaoji.pdb
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.csprojAssemblyReference.cache
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.csproj.CoreCompileInputs.cache
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.AssemblyInfoInputs.cache
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.AssemblyInfo.cs
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.dll
+D:\suanfa\xiaoji\xiaoji\obj\Debug\netcoreapp2.1\xiaoji.pdb
