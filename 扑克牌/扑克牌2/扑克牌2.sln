@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扑克牌2", "扑克牌2\扑克牌2.csproj", "{9242954F-5DEB-4B4E-A42D-92F673903EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9242954F-5DEB-4B4E-A42D-92F673903EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9242954F-5DEB-4B4E-A42D-92F673903EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9242954F-5DEB-4B4E-A42D-92F673903EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9242954F-5DEB-4B4E-A42D-92F673903EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7B1B67-B6F6-4388-91AD-35ADB3125A15}
+	EndGlobalSection
+EndGlobal
